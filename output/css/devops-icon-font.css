@@ -28,6 +28,7 @@
 .icon-docker:before,
 .icon-flocker:before,
 .icon-mesos:before,
+.icon-puppet:before,
 .icon-terraform:before {
   display: inline-block;
   font-family: "devops-icon-font";
@@ -48,4 +49,5 @@
 .icon-docker:before { content: "\f101"; }
 .icon-flocker:before { content: "\f106"; }
 .icon-mesos:before { content: "\f105"; }
+.icon-puppet:before { content: "\f107"; }
 .icon-terraform:before { content: "\f102"; }

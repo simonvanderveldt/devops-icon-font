@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0a2b029a1b2255e3fcb416036a05b1d208764cdd19a7974c13defafeb8648d64",
-    "current": "0a2b029a1b2255e3fcb416036a05b1d208764cdd19a7974c13defafeb8648d64"
+    "previous": "69b43d1d2d80ae314176ed73046357c51e270f711a775efb2e8a291f1bca589c",
+    "current": "69b43d1d2d80ae314176ed73046357c51e270f711a775efb2e8a291f1bca589c"
   },
   "fonts": [
     "output/fonts//devops-icon-font.ttf",
@@ -29,6 +29,10 @@
     "mesos": {
       "codepoint": 61701,
       "source": "vectors/mesos.svg"
+    },
+    "puppet": {
+      "codepoint": 61703,
+      "source": "vectors/puppet.svg"
     },
     "terraform": {
       "codepoint": 61698,

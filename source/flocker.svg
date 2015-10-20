@@ -12,9 +12,9 @@
    id="svg3039"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   width="560.76984"
-   height="478.13794"
-   sodipodi:docname="flocker.png">
+   width="512"
+   height="512"
+   sodipodi:docname="flocker.svg">
   <metadata
      id="metadata3045">
     <rdf:RDF>
@@ -49,36 +49,31 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.52534633"
-     inkscape:cx="460.99809"
+     inkscape:cx="121.22223"
      inkscape:cy="483.24694"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3039" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer"
-     transform="translate(-143.0106,-89.171316)">
+     transform="translate(-143.0106,-55.309255)">
     <path
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 143.0106,320.00725 90.5173,-58.88671 c 0,0 7.7394,93.54575 6.39342,93.54575 -1.34599,0 -96.91072,-34.65904 -96.91072,-34.65904 z"
+       d="m 143.0106,303.79224 82.64506,-53.76537 c 0,0 7.06631,85.41013 5.83739,85.41013 -1.22893,0 -88.48245,-31.64476 -88.48245,-31.64476 z"
        id="path3058"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 233.5279,261.12054 32.64007,206.27176 c 0,0 106.66908,-164.54632 106.33259,-166.56529 -0.3365,-2.01897 -138.97266,-39.70647 -138.97266,-39.70647 z"
+       d="m 225.65566,250.02687 29.80139,188.33243 c 0,0 97.39213,-150.23583 97.08491,-152.07921 -0.30724,-1.84338 -126.8863,-36.25322 -126.8863,-36.25322 z"
        id="path3060"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsc" />
+       inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 266.16159,467.35199 677.17233,567.30926 477.65541,170.43499 z"
+       d="M 255.45122,438.3225 630.71661,529.58654 448.55155,167.22819 z"
        id="path3062"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 477.65541,170.43499 590.80074,380.88462 703.78041,89.171316 z"
+       d="M 448.55155,167.22819 551.8567,359.37514 655.0106,93.031966 z"
        id="path3064"
        inkscape:connector-curvature="0" />
   </g>

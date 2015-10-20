@@ -16,5 +16,6 @@ docker run --rm -v ${PWD}:/project drichner/fontcustom compile
 # How to add an icon
 - [Inkscape](https://inkscape.org) SVG sources can be found in the `sources` directory
 - When adding an SVG save the Inkscape SVG in the `sources` directory
+- Make a 512x512 px SVG, use a single layer and make sure there are no groups
 - Save the final svg as "Optimized SVG" in the `vectors` directory
 - Run fontcustom as described in How to build the font
