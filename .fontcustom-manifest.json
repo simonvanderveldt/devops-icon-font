@@ -1,0 +1,71 @@
+{
+  "checksum": {
+    "previous": "0a2b029a1b2255e3fcb416036a05b1d208764cdd19a7974c13defafeb8648d64",
+    "current": "0a2b029a1b2255e3fcb416036a05b1d208764cdd19a7974c13defafeb8648d64"
+  },
+  "fonts": [
+    "output/fonts//devops-icon-font.ttf",
+    "output/fonts//devops-icon-font.svg",
+    "output/fonts//devops-icon-font.woff",
+    "output/fonts//devops-icon-font.eot"
+  ],
+  "glyphs": {
+    "consul": {
+      "codepoint": 61696,
+      "source": "vectors/consul.svg"
+    },
+    "coreos": {
+      "codepoint": 61700,
+      "source": "vectors/coreos.svg"
+    },
+    "docker": {
+      "codepoint": 61697,
+      "source": "vectors/docker.svg"
+    },
+    "flocker": {
+      "codepoint": 61702,
+      "source": "vectors/flocker.svg"
+    },
+    "mesos": {
+      "codepoint": 61701,
+      "source": "vectors/mesos.svg"
+    },
+    "terraform": {
+      "codepoint": 61698,
+      "source": "vectors/terraform.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": true,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "devops-icon-font",
+    "force": true,
+    "input": {
+      "templates": "templates/",
+      "vectors": "vectors/"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "output/css/",
+      "fonts": "output/fonts/",
+      "index.html": ".",
+      "preview": "output/styleguide/"
+    },
+    "preprocessor_path": "output/fonts/",
+    "quiet": false,
+    "templates": [
+      "index.html",
+      "css"
+    ]
+  },
+  "templates": [
+    "./index.html",
+    "output/css/devops-icon-font.css"
+  ]
+}
