@@ -3,7 +3,7 @@
 ## How to use the font
 - Include `output/devops-icon-font.css` and all fonts in the `output/fonts` directory in your HTML/CSS
 - Add an icon using `<i class="icon-{icon-name}">`, for example `<i class="icon-docker">`
-- For an overview of the icons included see http://simonvanderveldt/devops-icon-font
+- For an overview of the icons included see http://simonvanderveldt.nl/devops-icon-font
 
 
 ## How to build the font
